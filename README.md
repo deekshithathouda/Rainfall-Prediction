@@ -19,7 +19,7 @@ This project aims to predict whether it will rain tomorrow using historical weat
 - Bar graph Comparison
 
 ## Streamlit Web App - Implementation
-Run the commands :
+Run the commands in the CommandPrompt:
 1. pip install -r requirements.txt
 2. python -m streamlit run app.py
    
