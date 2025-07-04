@@ -20,7 +20,7 @@ This project aims to predict whether it will rain tomorrow using historical weat
 
 ## Streamlit Web App - Implementation
 Run the commands in the CommandPrompt:
-1. pip install -r requirements.txt
-2. python -m streamlit run app.py
+- pip install -r requirements.txt
+- python -m streamlit run app.py
    
 Enter Weather Parameters → Get Rainfall Prediction.
